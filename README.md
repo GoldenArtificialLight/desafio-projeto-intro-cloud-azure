@@ -7,5 +7,5 @@ Este repositório de projeto contém os resumos para os desafios de projeto:
 
 Cada um deles terá um arquivo correspondente, respectivamente:
 - [resumo_nuvem](resumo_nuvem.md)
-- [resumo_beneficios](resumo_beneficios.md)
+- [resumo_maquina_virtual](resumo_maquina_virtual.md)
 - [resumo_banco-de-dados](resumo_banco-de-dados.md)
